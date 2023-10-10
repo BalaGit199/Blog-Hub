@@ -13,7 +13,7 @@ function header() {
         </div>
         <div className="shrink w-80 sm:order-2">
           <Link href="/">
-            <a className="font-bold uppercase text-4```xl">Blog Hub</a>
+            <a className="font-bold uppercase text-4xl">Blog Hub</a>
           </Link>
         </div>
         <div className="w-96 order-3 flex justify-center">
